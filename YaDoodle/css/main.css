@@ -1,0 +1,47 @@
+body{
+	font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+	padding: 0 55px;
+	margin: 0;
+}
+
+section{
+	align-items:center;
+	display: flex;
+	justify-content: center;
+}
+
+div{
+
+}
+
+input{
+	width: 75%;
+	height: 100%;
+	padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+}
+
+button{
+	background: url(https://cdn-icons-png.flaticon.com/512/751/751463.png) no-repeat center;;
+	background-size: 21px 21px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    height: 6%;
+    outline: none;
+    padding: 0;
+    pointer-events: auto;
+    position: absolute;
+    width: 26px;
+}
+
+.cent{
+	width: 40%;
+	position: relative;
+	padding: 0 15px;
+	border: none;
+	border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
