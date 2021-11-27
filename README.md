@@ -1,1 +1,1 @@
-# SearhAlgo
+# Searhing Algorithm
